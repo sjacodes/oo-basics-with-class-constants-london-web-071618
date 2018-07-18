@@ -10,6 +10,7 @@ class Shoe
       return BRANDS
     else
       BRANDS << brand
+    end
   end
 
   def cobble
